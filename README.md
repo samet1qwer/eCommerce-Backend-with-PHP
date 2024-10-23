@@ -3,6 +3,10 @@
 ## Project Overview
 This repository contains the backend logic of an e-commerce website written in PHP. The frontend design is based on an existing theme, while all the backend functionalities have been custom developed using PHP.
 
+
+
+
+
 ## Theme Disclaimer
 **The frontend theme used in this project does not belong to me. It is used for educational purposes only. Please do not use it for commercial purposes.**
 
