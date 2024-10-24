@@ -1,11 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 5.2.1
--- https://www.phpmyadmin.net/
---
--- Anamakine: 127.0.0.1
--- Üretim Zamanı: 14 Eki 2024, 22:56:34
--- Sunucu sürümü: 10.4.32-MariaDB
--- PHP Sürümü: 8.2.12
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
